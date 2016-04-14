@@ -4,7 +4,7 @@
 #include <iostream>
 
 using namespace std;
-
+// Teste
 
 static void errno_exit (const char * s)
 {
